@@ -1,0 +1,11 @@
+{
+    "parent": "item/generated",
+    "author": "RaulH22",
+    "textures": {
+        "layer0": "item/string"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 2200129}, "model": "item/raulh22/slimefun/slimefun/miscellaneous/chain"},
+        { "predicate": { "custom_model_data": 2200308}, "model": "item/raulh22/slimefun/slimefun/technical_components/copper_wire"}
+    ]
+}

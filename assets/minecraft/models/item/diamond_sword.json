@@ -1,0 +1,10 @@
+{
+    "parent": "item/handheld",
+    "author": "RaulH22",
+    "textures": {
+        "layer0": "item/diamond_sword"
+    },
+    "overrides": [
+        { "predicate": { "custom_model_data": 2200272}, "model": "item/raulh22/slimefun/slimefun/weapons/soulbound_sword"}
+    ]
+}
