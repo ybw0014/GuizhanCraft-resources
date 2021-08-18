@@ -251,6 +251,7 @@
         { "predicate": { "custom_model_data": 2300219}, "model": "item/ybw0014/exoticgarden/foods/tiramisu_with_blackberries"},
         { "predicate": { "custom_model_data": 2300220}, "model": "item/ybw0014/exoticgarden/foods/chocolate_pear_cake"},
         { "predicate": { "custom_model_data": 2300221}, "model": "item/ybw0014/exoticgarden/foods/apple_pear_cake"},
+        { "predicate": { "custom_model_data": 2400045}, "model": "item/ybw0014/litexpansion/thorium"},
         { "predicate": { "custom_model_data": 2600015}, "model": "item/ybw0014/fluffymachines/watering_can"}
     ]
 }

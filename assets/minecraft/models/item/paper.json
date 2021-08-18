@@ -1,6 +1,6 @@
 {
     "parent": "item/generated",
-    "author": "RaulH22",
+    "author": "ybw0014",
     "textures": {
         "layer0": "item/paper"
     },
@@ -14,6 +14,8 @@
         { "predicate": { "custom_model_data": 2200310}, "model": "item/raulh22/slimefun/slimefun/magical_gadgets/dimensional_scroll"},
         { "predicate": { "custom_model_data": 2200332}, "model": "item/raulh22/slimefun/slimefun/miscellaneous/reinforced_plate"},
         { "predicate": { "custom_model_data": 2200385}, "model": "item/raulh22/slimefun/slimefun/technical_components/plastic_sheet"},
+        { "predicate": { "custom_model_data": 2400017}, "model": "item/ybw0014/litexpansion/advanced_alloy"},
+        { "predicate": { "custom_model_data": 2400049}, "model": "item/ybw0014/litexpansion/iridium_plate"},
         { "predicate": { "custom_model_data": 2500048}, "model": "item/ybw0014/infinityexpansion/materials/machine_plate"}
     ]
 }

@@ -4,4 +4,4 @@
 *.py
 *.zip
 
-/.vscode/
+.vscode

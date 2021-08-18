@@ -5,7 +5,7 @@
         "layer0": "item/netherite_pickaxe"
     },
     "overrides": [
-        { "predicate": { "custom_model_data": 2600023}, "model": "item/ybw0014/fluffymachines/netherite_paxel"},
-        { "predicate": { "custom_model_data": 2500114}, "model": "item/ybw0014/infinityexpansion/infinity_items/world_breaker"}
+        { "predicate": { "custom_model_data": 2500114}, "model": "item/ybw0014/infinityexpansion/infinity_items/world_breaker"},
+        { "predicate": { "custom_model_data": 2600023}, "model": "item/ybw0014/fluffymachines/netherite_paxel"}
     ]
 }
