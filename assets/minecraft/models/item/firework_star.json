@@ -15,6 +15,7 @@
 		{ "predicate": { "custom_model_data": 2200415}, "model": "item/raulh22/slimefun/slimefun/magical_items/rune_lightning"},
 		{ "predicate": { "custom_model_data": 2200416}, "model": "item/raulh22/slimefun/slimefun/magical_items/rune_rainbow"},
 		{ "predicate": { "custom_model_data": 2200417}, "model": "item/raulh22/slimefun/slimefun/magical_items/rune_soulbound"},
-		{ "predicate": { "custom_model_data": 2200418}, "model": "item/raulh22/slimefun/slimefun/magical_items/rune_enchantment"}
+		{ "predicate": { "custom_model_data": 2200418}, "model": "item/raulh22/slimefun/slimefun/magical_items/rune_enchantment"},
+		{ "predicate": { "custom_model_data": 2400015}, "model": "item/ybw0014/litexpansion/rubber"}
     ]
 }

@@ -50,6 +50,7 @@
         { "predicate": { "custom_model_data": 2300128}, "model": "item/ybw0014/exoticgarden/drinks/thai_tea"},
         { "predicate": { "custom_model_data": 2300204}, "model": "item/ybw0014/exoticgarden/drinks/lemonade"},
         { "predicate": { "custom_model_data": 2300214}, "model": "item/ybw0014/exoticgarden/drinks/pineapple_juice"},
-        { "predicate": { "custom_model_data": 2300215}, "model": "item/ybw0014/exoticgarden/drinks/pineapple_smoothie"}
+        { "predicate": { "custom_model_data": 2300215}, "model": "item/ybw0014/exoticgarden/drinks/pineapple_smoothie"},
+        { "predicate": { "custom_model_data": 2300222}, "model": "item/ybw0014/exoticgarden/drinks/cola"}
     ]
 }
