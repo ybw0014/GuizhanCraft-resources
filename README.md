@@ -20,3 +20,4 @@ This resource pack support following plugins:
 - ChestTerminal
 - SlimeTinker
 - SlimeTreeTaps
+- Bump
