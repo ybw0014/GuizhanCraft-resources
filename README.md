@@ -19,5 +19,5 @@ This resource pack support following plugins:
 - LiteXpansion
 - ChestTerminal
 - SlimeTinker
-- SlimeTreeTaps
+- SlimyTreeTaps
 - Bump
