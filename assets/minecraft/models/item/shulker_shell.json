@@ -5,6 +5,6 @@
         "layer0": "item/shulker_shell"
     },
     "overrides": [
-        { "predicate": { "custom_model_data": 2200610}, "model": "item/rythn12/slimefun/magical_items/synthetic_shulker_shell"}
+        { "predicate": { "custom_model_data": 2200610}, "model": "item/ryhn12/slimefun/magical_items/synthetic_shulker_shell"}
     ]
 }
